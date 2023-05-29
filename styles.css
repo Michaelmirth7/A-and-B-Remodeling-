@@ -1,0 +1,96 @@
+html{
+    height: 100%;
+}
+
+body{
+    
+    background-image:url(/images/pexels-max-vakhtbovych-6207945.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+
+.container{
+    margin-left:auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header{
+    background-color:whitesmoke;
+    height: 118px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+nav{
+    background-color:rgba(0, 0, 0, 0.445); 
+    height:40px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+main{
+    height:400px; 
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer{
+    background-color:rgba(0, 0, 0, 0.459); 
+    
+}
+
+h1{
+    font-size: 84px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p{
+    font-size: 18px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    height: 120px;
+}
+
+.contact{
+    font-size: large;
+}
+
+a{
+    font-size: 20px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+main a{
+    color:darkred;
+    
+}
+
+/*About page code*
+
